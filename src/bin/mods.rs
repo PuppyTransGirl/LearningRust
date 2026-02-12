@@ -1,10 +1,10 @@
-// EPISODE 17 - Yes this code compile
+// EPISODE 17
 
 #![allow(unused)]
 
 // Modules
 
-use LearningRust::my;
+use learning_rust::my;
 
 fn main() {
     my::print();
